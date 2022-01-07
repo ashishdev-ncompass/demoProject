@@ -1,1 +1,2 @@
 a new file added
+and there goes a new line 
